@@ -1,4 +1,8 @@
-## Hi there 👋
+### やあ
+
+何もできん猿です
+
+Minecraftが好きです
 
 <!--
 **ringo-1234/ringo-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
