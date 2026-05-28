@@ -1,4 +1,4 @@
-### やあ
+### こんにちは
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ringo-1234&theme=tokyonight)
 
