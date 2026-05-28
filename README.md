@@ -1,5 +1,7 @@
 ### やあ
 
+<img src="https://github-readme-stats.vercel.app/api?username=ringo-1234&show_icons=true&theme=tokyonight&align=center" alt="GitHub Stats" />
+
 何もできん猿です
 
 Minecraftが好きです
