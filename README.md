@@ -1,6 +1,6 @@
 ### やあ
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringo-1234&layout=compact&theme=tokyonight&align=center" alt="Top Langs" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ringo-1234&layout=compact&theme=tokyonight)
 
 何もできん猿です
 
