@@ -1,6 +1,6 @@
 ### やあ
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ringo-1234&layout=compact&theme=tokyonight)](https://github.com)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ringo-1234&theme=tokyonight)
 
 何もできん猿です
 
