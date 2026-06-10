@@ -17,7 +17,7 @@
 
 </details>
 
-[![X](https://img.shields.io/badge/X-Follow_Me-000000?style=flat-square&logo=x)](https://x.com/@S4890241553774
+[![X](https://img.shields.io/badge/X-Follow_Me-000000?style=flat-square&logo=x)](https://x.com/@applepie0s0
 )
 
 ![Waves](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
