@@ -2,7 +2,9 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-Active-green?style=flat-square&logo=minecraft)](https://www.minecraft.net/) [![Forge 1.12.2](https://img.shields.io/badge/Forge-1.12.2-orange?style=flat-square&logo=minecraft)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
 
-![Activity Graph](./profile-activity-graph.svg)
+![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ringo-1234&theme=tokyonight)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ringo-1234&theme=tokyonight&utcOffset=9) ![Most Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ringo-1234&theme=tokyonight)
 
 ![Waves](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
