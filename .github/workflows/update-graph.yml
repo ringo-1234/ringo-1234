@@ -23,7 +23,7 @@ jobs:
 
       - name: Save graph image
         run: |
-          echo "${{ steps.graph.outputs.graph }}" > profile-activity-graph.svg
+          echo "${{ steps.graph.outputs.graph }}" | base64 --decode > profile-activity-graph.svg
 
       - name: Commit & Push Changes
         run: |
