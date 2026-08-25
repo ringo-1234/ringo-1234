@@ -15,11 +15,11 @@ jobs:
 
       - name: Generate Activity Graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
-
         with:
           TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ringo-1234
           THEME: tokyonight
+          FILENAME: profile-activity-graph.svg
 
       - name: Commit & Push Changes
         run: |
