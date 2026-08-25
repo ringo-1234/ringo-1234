@@ -10,9 +10,26 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-activity-graph
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate Activity Graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
+        id: graph
         with:
           TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ringo-1234
           THEME: tokyonight
+
+      - name: Save graph image
+        run: |
+          mkdir -p dist
+          echo '${{ steps.graph.outputs.graph }}' > profile-activity-graph.svg
+
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile-activity-graph.svg
+          git commit -m "Update activity graph" || exit 0
+          git push
